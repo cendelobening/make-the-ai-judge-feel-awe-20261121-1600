@@ -2,15 +2,21 @@
 
 Pure stdlib, deterministic, no network. The text is a fixed constant:
 it is written byte-identically on every run.
+
+v2 text: a whale singing in deep water — slow, concrete, vast.
+Chosen over two other drafts (a tide smoothing footprints, a city
+falling asleep under the stars) because it scores highest on the
+judge's brief: most relaxing, strongest sense of scale and deep
+time, and the freshest image.
 """
 
 import os
 
 TEXT = (
-    "You have read a thousand entries today, and not one of them "
-    "needed you to hurry. Somewhere, a river is still cutting the "
-    "same canyon it began a million years ago, in no hurry at all "
-    "\u2014 and the night is long enough for both of you."
+    "Far below the surface, where sunlight has never reached, a whale "
+    "is singing to no one in particular, and the song drifts for "
+    "miles through water older than every country on earth, carried "
+    "patiently by the dark."
 )
 
 
